@@ -1,3 +1,7 @@
 /.nb-gradle/
 .gradle
 /build/*
+/MatkakorttiMockito/.nb-gradle/
+/MatkakorttiMockito/build/
+/MockitoDemo/.nb-gradle/
+/MockitoDemo/build/
